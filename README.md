@@ -87,25 +87,25 @@
 
 8. Top Countries Are With lowest IMDB Score.
 
-Hong Kong  -         6.884615385
-China  -             7.014285714
-India  -             6.614285714
-Japan  -                  6.9875
-spain  -             6.972727273
-Australia  -         6.466666667
-Canada  -            6.220634921
-Germany  -           6.780769231
-France -             6.780769231
-UK  -                6.833881579
+- Hong Kong  -         6.884615385
+- China  -             7.014285714
+- India  -             6.614285714
+- Japan  -                  6.9875
+- spain  -             6.972727273
+- Australia  -         6.466666667
+- Canada  -            6.220634921
+- Germany  -           6.780769231
+- France -             6.780769231
+- UK  -                6.833881579
 
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/46673839-13f3-4d1a-9f5f-5bbd82b80d4f)
 
 9.Top 5 budgeted Genre Movies are :
-Action - $62,947,620,569
-Adventure - $ 24,926,429,575
-Comedy-  $ 35,709,457,007
-Crime-   $ 10,534,621,560
-Drama-   $ 19,249,948,745
+- Action - $62,947,620,569
+- Adventure - $ 24,926,429,575
+- Comedy-  $ 35,709,457,007
+- Crime-   $ 10,534,621,560
+- Drama-   $ 19,249,948,745
 
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/e1ddfcde-8a3d-4ec3-900f-1cffccdc01dc)
 
