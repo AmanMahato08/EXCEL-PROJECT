@@ -26,6 +26,7 @@
 7.  Which Title generated the strongest Profit Margin in the entire sample (across all years)?
 8.  Which of the 10 countries generated the lowest average IMDb scores?
 9.  what are the Top 5 most budgeted Genre Movies ?
+10.  What is the Highest distribution of movie titles by country in the IMDb database?
 
 # Inquiry Insight: A Journey Through Answers
 1.  According to database japanese movies produced in English are
@@ -35,7 +36,8 @@
 - **Street Fighter**
 - **one missed called**
 
-![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/e2c55f16-8ed8-48f3-970d-cdc463270a04)
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/9e51c618-d984-4e4e-ab04-0fd5cf6464b3)
+
 
 
 
@@ -56,7 +58,9 @@
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/5bf57467-96bd-4e2d-a6cb-801b25123ad8)
 
 
-![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/41c7f7ae-1eae-4d02-90cd-14bf53748c41)
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/ffbaf80b-44fe-48b3-a55d-d8846deb9803)
+
+
 
 
 5. According To the insight ***5 titles*** fall in range
@@ -64,7 +68,8 @@
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/1f7c782d-885c-4986-9e28-cdd26ca4943b)
 
 
-![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/1d3862b2-e7ee-4e43-9f45-c425c49ffe60)
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/982e92cb-b01a-466d-be8d-013b2a8436fd)
+
 
 
 6. In the 4-year sample saw the highest-rated Biography films on average ***2013***
@@ -76,14 +81,16 @@
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/581c680d-ce86-4a76-8a6c-856905594b5a)
 
 
-   ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/cf05400e-1f69-46c7-8afb-bfc15dd424d3)
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/c2f0c1d1-f919-45ba-ae13-cc6a37a76ea5)
+
 
 
 7. According to the insight  ***Paranormal Activity	$107,902,283	0.999861005***  Generated Strongest Profit Margin
 
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/a2d41c0a-3cc4-4f75-b264-e50c82b05d5c)
 
-![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/0fe0fe29-20f1-4003-b0e6-cdadf6c3803e)
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/0b320185-b636-4e89-bc89-f07151784147)
+
 
 8. Top Countries Are With lowest IMDB Score.
 
@@ -98,7 +105,8 @@
 - France -             6.780769231
 - UK  -                6.833881579
 
-![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/46673839-13f3-4d1a-9f5f-5bbd82b80d4f)
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/092da07a-544d-42e2-8af7-5a07f87fae27)
+
 
 9.Top 5 budgeted Genre Movies are :
 - Action - $62,947,620,569
@@ -108,6 +116,13 @@
 - Drama-   $ 19,249,948,745
 
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/e1ddfcde-8a3d-4ec3-900f-1cffccdc01dc)
+
+10. In the IMDB database UK has most Count Of titles Following graphs
+
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/f101cfa9-1903-47a4-8d18-323a310704ae)
+
+
+
 
 
 
