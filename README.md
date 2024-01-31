@@ -24,7 +24,8 @@
 5.  Show titles that earned between $1,000,000 and $3,000,000 in Gross Revenue. How many titles fell into this range?
 6.  Show the values as a Rank (large to small) based on the year.Which year in the 4-year sample saw the highest-rated Biography films on average? The lowest?
 7.  Which Title generated the strongest Profit Margin in the entire sample (across all years)?
-
+8.  Which of the 10 countries generated the lowest average IMDb scores?
+9.  what are the Top 5 most budgeted Genre Movies ?
 
 # Inquiry Insight: A Journey Through Answers
 1.  According to database japanese movies produced in English are
@@ -83,6 +84,32 @@
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/a2d41c0a-3cc4-4f75-b264-e50c82b05d5c)
 
 ![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/0fe0fe29-20f1-4003-b0e6-cdadf6c3803e)
+
+8. Top Countries Are With lowest IMDB Score.
+
+Hong Kong  -         6.884615385
+China  -             7.014285714
+India  -             6.614285714
+Japan  -                  6.9875
+spain  -             6.972727273
+Australia  -         6.466666667
+Canada  -            6.220634921
+Germany  -           6.780769231
+France -             6.780769231
+UK  -                6.833881579
+
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/46673839-13f3-4d1a-9f5f-5bbd82b80d4f)
+
+9.Top 5 budgeted Genre Movies are :
+Action - $62,947,620,569
+Adventure - $ 24,926,429,575
+Comedy-  $ 35,709,457,007
+Crime-   $ 10,534,621,560
+Drama-   $ 19,249,948,745
+
+![image](https://github.com/AmanMahato08/EXCEL-PROJECT/assets/157887173/e1ddfcde-8a3d-4ec3-900f-1cffccdc01dc)
+
+
 
 
 # CONCLUSION
