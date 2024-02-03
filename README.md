@@ -135,7 +135,7 @@ The IMDb Data Analysis Project has culminated in a comprehensive exploration of 
 # Created By
 [@AmanMahato08] (https://github.com/AmanMahato08)
 
-Amon Kr. Mahato - ***DATA ANALYTST**
+Amon Kr. Mahato - ***DATA ANALYST**
 
 
 
